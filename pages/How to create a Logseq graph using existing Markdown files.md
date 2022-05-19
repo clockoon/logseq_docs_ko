@@ -1,9 +1,11 @@
-- If you already have a collection of Markdown files you wish to start with instead of [creating a new graph]([[How to create a new graph]]), Logseq allows you to import those files—even if they were created with another tool.
-- To start using Logseq with your existing Markdown files, all you have to do is create a new graph and select a directory that contains Markdown files. Logseq will automatically create the following folders:
-	- `journals` (in which each day a new file is created for that day)
-	- `pages` (where new files are created when you create a new page in Logseq)
-	- `assets` (where all (media) files you upload in Logseq are stored)
-- Logseq has the ability to find files in subfolders, so it's not necessary to move all of your Markdown files to the pages folder. When you open a directory with files that were created by the Obsidian _Daily notes_ core plugin, Logseq will automatically locate them. However, Logseq will create a new file for every day onward in the `journals` folder.
-- If you want to use Logseq in combination with Obsidian (for example, to make use of Obsidian's massive plugin ecosystem), have a look at the following Twitter thread by Logseq team member Ramses. In it, he shows exactly what settings you need to change in both tools to make them play nice together.
+title:: 기존 마크다운 파일로 Logseq 그래프 만들기
+
+- 만약 이미 마크다운 파일 모음을 갖고 있어서 [새로운 그래프를 만들지]([[새 그래프 만들기]]) 않아도 된다면, Logseq에서 이 파일들을 가져오게 할 수 있습니다. 다른 툴로 마크다운을 작업했어도 마찬가지입니다.
+- 기존 마크다운 파일을 통해 Logseq를 사용할 것이라면, 일단 새 그래프를 생성하고 마크다운 파일이 담긴 디렉토리를 생성하기만 하면 됩니다. Logseq는 자동으로 다음 폴더를 생성합니다:
+    - `journals` (각 날마다 해당하는 파일을 만듬)
+    - `pages` (Logseq에서 새 페이지를 만들면 이 폴더에 생성됨)
+    - `assets` (Logseq에 업로드하는 모든 (미디어) 파일들이 저장됨)
+- Logseq는 하위폴더 내 파일도 찾을 수 있으므로, 마크다운 파일을 pages 폴더에 이동할 필요는 없습니다. 만약 어떤 디렉토리가 Obsidian _Daily notes_ 코어 플러그인을 사용하여 파일을 만들었다 해도, Logseq는 자동으로 그 파일들의 위치를 찾습니다. 그러나 Logseq는 매일 새로운 파일을 `journals` 폴더에 만듭니다.
+- 만약 Logseq와 Obsidian을 함께 사용하고 싶다면(예컨대 Obsidian의 거대한 플러그인 에코시스템을 사용하도록 할 것이라면) Logseq team 멤버인 Rames의 다음 트위터 스레드를 참고하세요. 양쪽 프로그램에서 어떤 설정을 바꿔야 제대로 잘 작동하는지, 그리고 둘을 연동시키려면 어떻게 해야 하는지 정확히 보여주고 있습니다.
 	- {{tweet https://twitter.com/rroudt/status/1443546448675573760?s=20}}
-- [>> Continue by getting to know the Journals page]([[Getting started with the Journals page]])
+- [>> 다음: 저널 페이지에 관해 알아보기]([[Getting started with the Journals page]])

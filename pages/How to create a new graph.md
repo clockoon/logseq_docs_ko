@@ -1,12 +1,14 @@
-- Before we get started, it's first necessary you have the Logseq desktop app installed. While it's possible to use Logseq in a browser, we recommend the desktop app for a variety of reasons—speed being the main one. In the rest of this guide we'll assume you're using the app.
-- To install the Logseq desktop app, head over to [Logseq.com](https://logseq.com/) and click the blue button that says Download desktop app:
+title:: 새 그래프 만들기
+
+- 우선 Logseq 데스크탑 앱을 설치해야 합니다. 브라우저 상에서도 Logseq를 사용할 수 있긴 하지만, 여러 이유로 데스크탑 앱을 쓰길 추천합니다. 주된 이유는 속도 때문입니다. 지금부터는 앱을 사용한다는 가정 하에 설명합니다.
+- Logseq 데스크탑 앱을 설치하려면 [Logseq.com](https://logseq.com/)로 이동해 Download desktop app이라 적힌 파란 버튼을 클릭하세요:
 	- ![download-logseq.png](../assets/download-logseq_1641561387597_0.png)
-- The site will automatically determine what Operating System you're using and download the appropriate installation file.
-- After you've downloaded the installation file, install it as you would do any other app. Once that's done, start Logseq.
-- Opening Logseq for the first time, you'll see the following screen telling you to open a local directory:
+- 사이트가 자동으로 사용하고 있는 운영체제를 파악해 필요한 설치 파일을 다운로드할 겁니다.
+- 설치 파일을 다운로드한 다음, 일반적인 앱과 마찬가지로 설치를 진행합니다. 설치가 끝나면 Logseq를 실행하세요.
+- Logseq를 처음 열면 다음과 같이 로컬 디렉토리를 열으라는 메세지를 마주하게 됩니다:
 	- ![add-a-graph.png](../assets/add-a-graph_1641561436690_0.png)
-- If you already have Markdown files you wish to use, look at the next section titled [[How to create a Logseq graph using existing Markdown files]].
-- For now, let's assume you'll start a new graph. Select a folder where you wish to store everything you do in Logseq. Once done, Logseq will open a page with today's date; the Journals page. We'll get back to this special type of page later.
-- Keep in mind that Logseq does not synchronize your data; it'll be only stored on your local machine. In case you want an extra safeguard for your data, you can create your graph in a folder that's synced via services like Dropbox or Google Drive. You can read more about this in the section [[How to sync your Logseq graph across devices]].
-- Now you're ready for the fun part!
-- [>> Continue by getting to know the Journals page]([[Getting started with the Journals page]])
+- 만약 추가하고 싶은 마크다운 파일이 이미 있다면, 다음 섹션인 [[기존 마크다운 파일로 Logseq 그래프 만들기]].
+- 일단 지금은 새 그래프에서 시작하고 싶다고 가정합니다. Logseq에서 작업한 파일을 저장할 폴더를 선택합니다. 선택이 끝나면 Logseq는 자동으로 오늘 날짜 이름의 페이지를 열 것입니다. 바로 저널 페이지입니다. 이 특수한 페이지 타입은 뒤에서 더 살펴볼 것입니다.
+- Logseq가 데이터를 동기화하지는 않음을 기억하세요. 단지 로컬 머신에 내용을 저장할 뿐입니다. 데이터에 대해 안전장치를 마련하고 싶다면, Dropbox나 Google Drive가 동기화 가능한 폴더에 그래프를 생성하세요. 여기에 대해서는 [[How to sync your Logseq graph across devices]] 섹션에서 더 자세히 다룰 것입니다..
+- 이제 즐겨봅시다!
+- [>> 다음: 저널 페이지에 관해 알아보기]([[Getting started with the Journals page]])
