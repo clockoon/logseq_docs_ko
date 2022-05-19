@@ -1,11 +1,11 @@
-- ## Introduction
-	- Logseq looks simple on the surface and is extremely powerful under the hood. Much like the famed Microsoft Excel, Logseq aims to be an environment for thinking. Excel's fuel are blocks of numbers, **Logseq's fuel are blocks of words**.
-	- It takes time to master this tool, as Logseq doesn't impose a way of working. But once you figure out how to get your desired end results, **Logseq will help you become a much more effective thinker.**
-	- To help you get started figuring out the workflows that work for you,  we will take you through all of Logseq's core features. See them as tools in your toolbox; individually a tool will do little, but once you learn to use them in combination you can become an artist. **Aim to be a knowledge artist.**
-	- Before we dive into the overview of Logseq's functionality, let's first dig a bit deeper into what makes Logseq special. As we said before; Logseq looks simple on the surface. But looks can be deceptive.
-- ## What makes Logseq special?
-	- **Logseq is an outliner.** Each bullet is a block, which you can best compare to a paragraph. Because Logseq is an outliner, every paragraph in Logseq is preceded by a bullet. Need more than a single paragraph? Create _branches_ by grouping related blocks.
-	- **Logseq is a _networked_ outliner.** You can connect any block, from anywhere in your notes collection. Creating copies of blocks is as easy as dragging your mouse. Remix your ideas in new outlines in minutes. Everything in Logseq is about the block; throughout this guide we'll see the opportunities of this concept.
+- ## 소개
+	- Logseq는 겉으로 보기에 간단해 보여도 실상은 굉장히 강력합니다. 그 유명한 마이크로소프트 엑셀과 비슷하게, Logseq는 생각하기를 위한 환경을 지향합니다. 엑셀의 힘이 숫자 블록에 있듯, **Logseq의 원동력은 글의 블록에 있습니다**.
+	- 이 도구를 완전히 익히려면 시간이 좀 필요합니다. Logseq는 어떻게 사용해야 한다고 강요하지 않기 때문입니다. 그러나 당신이 원하는 최종적인 결과를 어떻게 얻을 수 있는지 파악한다면, **Logseq는 당신을 훨씬 더 효율적으로 생각할 수 있도록 만들어 줄 것입니다**.
+	- 당신에게 적합한 워크플로우를 찾기 시작할 수 있도록, Logseq의 모든 핵심적인 기능들을 소개하겠습니다. 마치 도구상자에 들어있는 도구들을 보듯이 이 기능들을 살펴보세요. 각 도구들은 작은 역할을 하지만, 이들을 조합해서 어떻게 사용할 지 배우고 나면 당신은 예술가가 될 것입니다. **지식의 예술가 말입니다**.
+	- Logseq의 기능을 들여다보기 전에, 먼저 무엇 때문에 Logseq가 특별하다는 건지 조금 더 알아봅시다. 앞에서 말했지만, Logseq는 겉보기엔 간단해 보입니다. 그러나 겉모습이 전부는 아닙니다.
+- ## Logseq는 왜 특별한가?
+	- **Logseq는 아웃라이너입니다**. 각 불릿은 블록 역할을 합니다. 문단에 빗대어 생각하면 가장 쉬울 것입니다. Logseq는 아웃라이너이기 때문에, Logseq에서 각 문단 앞에는 불릿이 붙습니다. 하나의 문단으로는 불충분한가요? _가지_를 쳐서, 연관된 블록을 묶어보세요. 
+	- **Logseq는 _조직된_ 아웃라이너입니다**. 노트 컬렉션 안 어디에 있든지, 블록은 서로 연결할 수 있습니다. 블록을 복사하고 싶다면 마우스를 드래그하는 수준으로 쉽게 수행할 수 있습니다. 아이디어를 섞고 싶다면 금방 새로운 아웃라인을 만들어낼 수 있습니다. Logseq의 모든 요소는 결국 블록에 관한 것으로 귀결됩니다. 이 가이드 전체에 걸쳐 이 개념을 확인할 것입니다.
 	- Logseq is different compared to traditional note-taking apps. Most notes tools try to emulate paper and folders, meaning that each note is located in precisely one folder. This makes remixing your notes difficult, and often leads to having several copies of slightly different notes. Logseq aims to solve this so you can focus on doing your best thinking.
 	- In the coming lessons we’ll dive deep into what this freedom of information enables us to do. For now it’s enough to understand that **every bullet is a block** and that it can connect to any other block or collection of blocks (pages).
 	- ![Hier-vs-Netw-thinking-lite.png](../assets/Hier-vs-Netw-thinking-lite_1642527691339_0.png)
